@@ -1,0 +1,12 @@
+{
+  "name": "native-meteo",
+  "displayName": "native-meteo",
+  "expo": {
+    "name": "native-meteo",
+    "slug": "native-meteo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
